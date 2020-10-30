@@ -1,0 +1,11 @@
+https://www.tutorialspoint.com/ionic/ionic_colors.htm
+https://ionicframework.com/
+https://ionicframework.com/docs/v3/
+https://ionicframework.com/docs/components
+
+https://ionicframework.com/docs/native/camera
+https://www.tutorialspoint.com/cordova/cordova_camera.htm
+
+https://www.javatpoint.com/creating-first-cordova-application
+https://codesundar.com/cordova-plugin-camera/
+
